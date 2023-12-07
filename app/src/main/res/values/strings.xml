@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EtsySearch</string>
+    <string name="error_no_internet">No internet available</string>
+    <string name="error_no_results">No results found</string>
+    <string name="hint_search">What are you looking for?</string>
+    <string name="search">Search</string>
+    <string name="tap_to_fav">tap to favorite this item</string>
+    <string name="tap_to_unfav">tap to unfavorite this item</string>
+</resources>
